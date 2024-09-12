@@ -121,6 +121,7 @@
                                 app:ccp_autoDetectCountry="true"
                                 app:ccp_countryPreference="in,us,nz,gb"
                                 app:ccp_hintExampleNumber="true"
+                                app:ccp_defaultLanguage="CROATIAN"
                                 />
 
                             <EditText
